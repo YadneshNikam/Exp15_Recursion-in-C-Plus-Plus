@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-15
+//Yadnesh NIkam
+//24070123134
 #include<iostream>
 using namespace std;
 int add(int n){
@@ -18,6 +19,7 @@ int main(){
 }
 /*
 output:
-Enter a number: 6
-21
+Enter a number: 5
+15
 */
+
