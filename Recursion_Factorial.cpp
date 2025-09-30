@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-15
+//Yadnesh Nikam
+//24070123134
 #include<iostream>
 using namespace std;
 int fact(int x){
@@ -19,6 +20,7 @@ int main(){
 }
 /*
 output:
-Enter the number: 7
-The factorial is :5040
+Enter the number: 5
+The factorial is :120
+
 */
