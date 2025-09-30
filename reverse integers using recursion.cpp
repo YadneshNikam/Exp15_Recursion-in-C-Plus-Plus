@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-15
+//yadnesh nikam 
+//24070123134
 #include<iostream>
 using namespace std;
 
@@ -16,3 +17,4 @@ int main(){
     cin>>a;
     revint(a);
 }
+
