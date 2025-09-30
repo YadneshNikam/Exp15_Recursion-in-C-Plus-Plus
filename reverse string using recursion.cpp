@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-15
+//yadnesh nikam
+//24070123134
 #include<iostream>
 using namespace std;
 void rev(char*str){
@@ -17,7 +18,8 @@ int main(){
 }
 /*
 output:
-Enter a string: yash
-hsay
+Enter a string: yadnesh
+hsenday
 */
+
 
